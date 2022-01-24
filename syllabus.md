@@ -189,7 +189,7 @@ Incomplete or unsatisfactory work (lacking depth and noteable development stride
 
 *   8% Class participation: discussion and feedback of your peers, discussion of your work and challenges, your activity within the class community inside and outside of class
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   15% [Notebook or Sketchbook](notebook_or_sketchbook.md)
+*   15% [Sketchbook](Sketchbook.md)
 *   12% [Constant Input/Output](constant_input_output.md)
 *   15% [Process Website](process_website.md), including all written reflections for all posts
 *   5% Classmate Discovery
