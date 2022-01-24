@@ -9,7 +9,7 @@ Post the 2 maps (each with multiple depth levels) to your Process site under "co
 
 Create a 1 mind map exploring possibilities for a constant input project for the [Constant Input/Output project](constant_input_output.md). Place the word "inputs" in the center circle. Then branch out from there with possible topics. *Remember that if you choose the path of constant input, you are discovering or learning about something on a weekly basis (outside of a NYU course or your classes). This is material that you are absorbing or taking in.* Use this mind map to explore possible topics, subjects, mediums, etc. Branch out further with possible site, sources and locations of this information. 
 
-Create another mind map exploring possibilities for a constant output project for the [Constant Input/Output project](constant_input_output.md). Place the word "outputs" in the center circle. Then branch out from there with possible topics. These are things that you would be creating or doing which generate an output.
+Create a second mind map exploring possibilities for a constant output project for the [Constant Input/Output project](constant_input_output.md). Place the word "outputs" in the center circle. Then branch out from there with possible topics and activities. These are things that you would be creating or doing which generate an output.
 
 Note: If you want to learn a medium in order to generate something, this would still be considered an output project (versus input) because the ultimate goal is to generate something. Include in your schedule your learning aspects as well as your making. Posts to your Process site need to document both aspects.
 

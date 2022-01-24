@@ -1,9 +1,9 @@
 ### DM-UY 1143 A Ideation and Prototyping
-##### Spring 2022 • Katherine Bennett • Mon/Wed 2:00PM-3:50PM • Remote
+##### Spring 2022 • Katherine Bennett • Mon/Wed 2:00PM-3:50PM • OnCampus
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Katherine Bennett • Katherine.Bennett@nyu.edu • Spring 2021 
+    Katherine Bennett • Katherine.Bennett@nyu.edu • Spring 2022 
     Monday & Wednesday • 2:00PM-3:50PM • remote 
     Virtual Office Hours: Tuesdays 10am-12pm EST, by appointment: Message me in Slack either Monday night or Tuesday Morning and I'll send a Zoom link. First Come, First Serve.
     Virtual Asynchronous Student Hours: Friday mornings via Slack
@@ -127,7 +127,7 @@ There will be discrete team and individual exercises and projects that require y
 * Study outside of class (ideally with classmate(s)
 * Devote at a minimum 6 - 8 hours per week - of well organized time - outside of class: fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least twice a week for up to date info. Ideally towards the end of the week.
-* Complete all assignments and post to your site by due dates and time deadlines - Monday 9am EST
+* Complete all assignments and post to your site by due dates and time deadlines - Sunday 2pm EST
 * If you are asynchronous, you must schedule 4 meetings with me during my office hours. It is up to you to schedule these. If you cannot meet during my office hours, it is up to you to communicate that to me and to suggest an alternative time.
 * If you need to switch to asynchronous mode, please communicate that with me. If you cannot be in a class, but will watch the recording, communicate that with me.
 * Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence (and never having your camera on). Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same.
@@ -263,7 +263,7 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 ### REQUIRED SUPPLIES
 *   A physical Sketchbook and 3-7 drawing tools. I like Moleskines or something similiar. See [Sketchbook Work](Sketchbook.md) for more details.
-*	A physical planner. See [Planners and Journals](Planner.md)
+*	A physical planner. See [Planners and Journals](Planners.md)
 *   Digital Camera (You can also use a smart phone.)
 *   Access to Netflix (for two videos)
 *   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
@@ -272,7 +272,7 @@ Faculty can provide course accommodations/modifications only after receipt of an
 * [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533236421&sr=1-1&keywords=austin+kleon)
 * [Don't Read This Book: Time Management for Creative People by Donald Roos](https://www.amazon.com/Dont-Read-This-Book-Management-ebook/dp/B075F8B5BF)
 * [Drawing Ideas by Mark Baskinger and William Bardel](https://www.amazon.com/Drawing-Ideas-Hand-Drawn-Approach-Better/dp/0385344627) Physical is ideal, but digital edition is fine.
-* [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533236421&sr=1-1&keywords=austin+kleon)
+
 
 
 ### REQUIRED READINGS
@@ -297,7 +297,7 @@ _The following list of required media may be incomplete and is subject to change
 * [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
 * [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
 * [Abstract: The Art of Design](https://www.netflix.com/browse?jbv=80057883&jbp=0&jbr=2). Netflix required. Note there are 2 season, with each episode on a different person's practice. 
-* [The Creative Brain](https://www.netflix.com/title/81090128?s=a&trkid=13747225&t=cp) Netflix required.
+* [The Creative Brain](https://www.netflix.com/title/81090128?s=a&trkid=13747225&t=cp) <strike> Netflix required. </strike>
 
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
@@ -308,7 +308,7 @@ See Appendix
 
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. 
 
-Post all homework assignments to your Process Site by Monday 9am EST. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened and what you gained. Give us context.
+Post all homework assignments to your Process Site by Sunday 2pm EST. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened and what you gained. Give us context.
 
 Context and discussion of each assignment is addressed within the assigned modules. Make sure to read each module, so as to complete each assignment appropriately.
 
@@ -323,6 +323,7 @@ The NYU Tandon School values an inclusive and equitable environment for all our 
 #### Mini Projects & On-Going Assignments
 * [Care Package](Care_Package.md)
 * [Input Map](input_map.md)
+* [Classmate Discovery](classmate_discovery.md)
 * [Constant Input/Output](constant_input_output.md)
 * [Sketchbook Work](Sketchbook.md)
 * [Time Management Exercises](Time_Management_System.md)
@@ -341,4 +342,4 @@ See Appendix
 
 ### [Productivity Resources](productivity_resources.md)
 
-### [Recommended Journals and Planners](recommended_journals_and_planners.md)
+### [Recommended Journals and Planners](Planners.md)
