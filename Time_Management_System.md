@@ -26,6 +26,8 @@ Take notes on the following. We will discuss these in class:
 
 (information for each can be found in <a href = "https://teaching.polishedsolid.com/ip/mod1/content/index.html#/list/jpo72fquYrIlo99cmkPQc6IJHr56Iyc9?_k=w9y2t4" >module 1 </a>). They are to be completed in this order, so that we may discuss them together as a group.
 
+0. Track your time over 3 typical 24 hour work days, in 15 - 30 minute increments AFTER the fact. Thus, this isn't a schedule. It's an after the fact reflection. Yet, it must be completed every hour or so. It's not a judgement. It's a simple time log. period.
+
 1. Eat That Frog (4 days)
 
 2. Stephen Covey's time management matrix (4 days)
@@ -42,7 +44,7 @@ Take notes on the following. We will discuss these in class:
 
 ### Part 2: Practice
 
-In weeks 10-13, put your refined system into practice. Document your successes and failures to your process blog under time management systems. By week 13, post final reflections and next steps.
+In weeks 11-13, put your refined system into practice. Document your successes and failures to your process blog under time management systems. By week 13, post final reflections and next steps.
 
 
 ### [Additional Resources](productivity_resources.md)
