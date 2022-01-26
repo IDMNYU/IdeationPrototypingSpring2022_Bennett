@@ -66,9 +66,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       <li> Interviews </li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
     <li><a href = "Care_Package.md">Review Spot Light: Care Packages</li></a>
-    <li><a href = "classmate_discovery.md"> Introduce: ClassMate Discovery Assignment </a> 
+    <li><a href = "classmate_discovery.md"> Introduce: ClassMate Discovery Assignment Research & Execution</a> 
     </ul>
     </td> 
+    <td valign="top">
     <li> Read: </li>
 <ul><li><a href ="https://www.nytimes.com/2018/11/17/style/self-care/terry-gross-conversation-advice.html"> Read the article "How To Talk to People" by Terry Gross </a></li>
     <li> Read letters to the next cohort (found on slack resources). Write a brief <a href = "reflect.md">reflection </a>on your Process Site. Post to your process website under "reflections".</li>
@@ -76,8 +77,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
     <li> Do: </li>
     <ul>
-        <td valign="top"><li><a href = "Care_Package.md">Care Packages </a>and post it under "ClassMate Discovery tab" on your Process site (if you have not already done so)</li>
+        <li><a href = "Care_Package.md">Care Packages </a>and post it under "ClassMate Discovery tab" on your Process site (if you have not already done so)</li>
         <li><a href = "input_map.md">Personal Input Map</a> and post it under "ClassMate Discovery tab" on your Process site (if you have not already done so)</li> 
+        <li><a href = "classmate_discovery.md">Classmate Discovery Part 1: Research</a></li>
         <li>Post to your <a href= "constant_input_output.md">constant input/output</a> details to your process website: What are you going to do? What does this mean? What SPECIFIC resources are you going to utilize? What is the next step? What is the step after that? Include your proposed schedule (when? actual dates. Make the due dates Sundays - 2pm EST.) Post to your process website, under constant input/output tab. Also, gather ans secure the resources you need to work.</li>
         <li> Post your <a href = "SketchBook_wk2.md"> sketchbook </a>work to your Process site under the "sketchbook" tab.</li>
     </ul>
@@ -86,38 +88,42 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 3<p>Feb 7 & Feb 9</p></td>
     <td valign="top">
-       <li> Moodboards, word lists, referencing, research types</li>
         <li>Discuss: </li>
     <ul>
-        <li><a href = "classmate_discovery.md">Classmate Discovery work</a></li>
-            <li><a href = "Time_Management_System.md"> Time Management System Assignment </a></li>
-    </ul>
-       
+        <li><a href = "Time_Management_System.md"> Time Management System Assignment </a></li>
+        <li><a href = "Circular_Design_Sprint.md"> Launch of Circular Design Sprint; Journey & Emotion Investigation</a></li>
+    </ul>     
 <li>Review Homework</li>
 </td>  
     <td valign="top">
-    <ul>
-    <li><a href= "constant_input_output.md.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site </li>
+        <ul> Read <br>
+            <li> Read - Show Your Work </li>
+        </ul>
+    <ul> Do: <br>
+    <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-<li><a href = "classmate_discovery.md">Classmate Discovery Assignment</a></li></ul>
+<li><a href = "classmate_discovery.md">Classmate Discovery Part 2: Generate</a></li><li> Research studies for Circular Design Sprint<li></ul>
 </td>
 </tr>
 <tr>
     <td valign="top">wk 4<p></p><p>Feb 14 & 16th</p></td>
     <td valign="top">
-      <li> Discuss Design Research: Part 2</li>
+        <li><a href = "Circular_Design_Sprint.md">Circular Design Sprint: Ideation: Product & Service </a></li>
+        <li>I+P Exercise: <a href = "https://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER Technique by Michael Michalko</a></li>
       <li> Discuss: Prototyping</li>
-      <li>I+P Exercise: <a href = "https://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER Technique by Michael Michalko</a></li>
       </td>
     <td valign="top">
+    Read:
     <ul>
  <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>  
      <li>Write your <a href = "refect.md">reflection response </a> to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Post to your process website under "reflections tab".</li> 
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
     <li> Read - Show Your Work; By the end of next week or so, you should be half way through Show Your Work. If you aren't, get reading!</li>
-    <li> Post your <a href ="SketchBook_wk4.md">sketchbook </a> work to your Process site </li>
+     </ul>
+     Do:
+     <ul><li> Post your <a href ="SketchBook_wk4.md">sketchbook </a> work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-    <li><a href="constant_input_output.md">constant input/output</a></li> </ul>
+    <li><a href="constant_input_output.md">constant input/output</a></li></ul>
 </td>
 </tr>
 </table>

@@ -193,7 +193,7 @@ Incomplete or unsatisfactory work (lacking depth and noteable development stride
 *   12% [Constant Input/Output](constant_input_output.md)
 *   15% [Process Website](process_website.md), including all written reflections for all posts
 *   5% Classmate Discovery
-*   10% Maker Space & Prototyping Exercises
+*   10% Circular Design Prototyping Exercises
 *   30% [Future Dystopia / Utopia Project: Final](Future.md) 
 
 ##### Qualitative Grading Overview
@@ -285,6 +285,7 @@ _The following list of required readings may be incomplete and is subject to cha
 * Trollbäck, Jakob. [One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/) HOW Design. 23 Jan. 2008. 
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
 * [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533236421&sr=1-1&keywords=austin+kleon)
+* [IDEO's Design Kit Methods](https://www.designkit.org/methods)
 * [Don't Read This Book: Time Management for Creative People by Donald Roos](https://www.amazon.com/Dont-Read-This-Book-Management-ebook/dp/B075F8B5BF)
 * Speculative Everything by Anthony Dunne and Fiona Raby
 * The Pocket Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions by  Bruce Hanington and Bella Martin 
