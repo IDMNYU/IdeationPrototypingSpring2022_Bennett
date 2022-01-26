@@ -102,7 +102,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul> Do: <br>
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-<li><a href = "classmate_discovery.md">Classmate Discovery Part 2: Generate</a></li><li> Research studies for Circular Design Sprint<li></ul>
+<li><a href = "classmate_discovery.md">Classmate Discovery Part 2: Generate</a></li><li> Research studies for Circular Design Sprint</li></ul>
 </td>
 </tr>
 <tr>
