@@ -97,7 +97,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </td>  
     <td valign="top">
         <ul> Read <br>
-            <li> Read - Show Your Work </li>
+            <li> Show Your Work </li>
         </ul>
     <ul> Do: <br>
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site </li>
@@ -108,6 +108,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 4<p></p><p>Feb 14 & 16th</p></td>
     <td valign="top">
+        <li>Review Homework: Classmate Discovery</li>
         <li><a href = "Circular_Design_Sprint.md">Circular Design Sprint: Ideation: Product & Service </a></li>
         <li>I+P Exercise: <a href = "https://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER Technique by Michael Michalko</a></li>
       <li> Discuss: Prototyping</li>
@@ -115,10 +116,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
     Read:
     <ul>
- <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>  
+ <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Module 3 INCLUDING LINKS </a> </li>  
      <li>Write your <a href = "refect.md">reflection response </a> to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Post to your process website under "reflections tab".</li> 
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
-    <li> Read - Show Your Work; By the end of next week or so, you should be half way through Show Your Work. If you aren't, get reading!</li>
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
+    <li>  Show Your Work; By the end of next week or so, you should be half way through Show Your Work. If you aren't, get reading!</li>
      </ul>
      Do:
      <ul><li> Post your <a href ="SketchBook_wk4.md">sketchbook </a> work to your Process site </li>
