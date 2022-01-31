@@ -28,6 +28,8 @@ Take notes on the following. We will discuss these in class:
 
 0. Track your time over 3 typical 24 hour work days, in 15 - 30 minute increments AFTER the fact. Thus, this isn't a schedule. It's an after the fact reflection. Yet, it must be completed every hour or so. It's not a judgement. It's a simple time log. period.
 
+Collect this in a spreadsheet, calendar, group of papers or app. Post evidence on your Process site (under Time Management). Reflect on what you notice and patterns that you find. What changes do you want to make (after what you've noticed)?
+
 1. Eat That Frog (4 days)
 
 2. Stephen Covey's time management matrix (4 days)

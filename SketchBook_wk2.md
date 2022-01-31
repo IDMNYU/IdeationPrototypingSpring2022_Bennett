@@ -5,7 +5,7 @@
 
 * Drawing Ideas ch 1 (skip the part about making ones sketch book unless you are inclined to do so.)
 
-* Read Ch 2 - p.59.
+* Read Ch 2 - p.63.
 
 ###### Sketch:
 

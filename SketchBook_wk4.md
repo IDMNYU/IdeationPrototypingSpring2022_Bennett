@@ -3,11 +3,10 @@
 
 ###### Read 
 
-* Drawing Ideas ch 2 p.68 - 75; Study & Read
+* Drawing Ideas ch 2 p.70 - 75; Study & Read
 
 ###### Sketch: Orthographic & Curved Planes
 
- - Sketchbook: Warm up by sketching a page freehand in two-point perspective, sketching planes at a variety of angles (See text).
 
  - Sketchbook: Fill a page, exploring the orthographic views of an object, in front and side views. Then simplify that form into basic geometric shapes using two point perspective and divide it along parting lines. Re-draw it with details and features; Then again showing how it might work, move or operate
 
