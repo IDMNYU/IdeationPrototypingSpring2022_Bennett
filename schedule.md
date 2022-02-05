@@ -156,7 +156,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 6 <p>March 2 & March 7</p></td>  
 <td valign="top"><ul>
     <li> World Building Game In Class </li>
-    <li> Discuss Future Project </li>
+    <li> Discuss <a href = "Future.md">Future Project</a> </li>
     <li><a href = "Future_weeklyBrief.md">  Discuss Future Project Homework</a></li>
 </ul>
    </td>
