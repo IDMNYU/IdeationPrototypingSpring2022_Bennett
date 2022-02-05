@@ -144,18 +144,20 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     Read:
     <ul>
     </ul>
-    Do:
     <strong> Homework is now due on Tuesdays at noon </strong> for the rest of the semester. Make note of this. <br> <br>
+    Do:
     <li> Post work from the Circular Design Sprint to your Process site </li>
      <li><a href="constant_input_output.md">constant input/output</a></li>
-    <li> Read - Show Your Work </li>. Post your <a href = "reflect.md">reflections </a> to your Process site.</ul>
+    <li> Read - Show Your Work Post your <a href = "reflect.md">reflections </a> to your Process site. </li> </ul>
 <li> Post your <a href = "Sketchbook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li><li><a href ="Time_Management_System.md">Time Management System</a></li>   
     </td>
 </tr>
 <tr>
     <td valign="top">wk 6 <p>March 2 & March 7</p></td>  
 <td valign="top"><ul>
-    <li> </li>
+    <li> World Building Game In Class </li>
+    <li> Discuss Future Project </li>
+    <li><a href = "Future_weeklyBrief.md">  Discuss Future Project Homework</a></li>
 </ul>
    </td>
 <td valign="top">
