@@ -80,7 +80,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "Care_Package.md">Care Packages </a>and post it under "ClassMate Discovery tab" on your Process site (if you have not already done so)</li>
         <li><a href = "input_map.md">Personal Input Map</a> and post it under "ClassMate Discovery tab" on your Process site (if you have not already done so)</li> 
         <li><a href = "classmate_discovery.md">Classmate Discovery Part 1: Research</a></li>
-        <li>Post to your <a href= "constant_input_output.md">constant input/output</a> details to your process website: What are you going to do? What does this mean? What SPECIFIC resources are you going to utilize? What is the next step? What is the step after that? Include your proposed schedule (when? actual dates. Make the due dates Sundays - 2pm EST.) Post to your process website, under constant input/output tab. Also, gather ans secure the resources you need to work.</li>
+        <li>Post to your <a href= "constant_input_output.md">constant input/output</a> details to your process website: What are you going to do? What does this mean? What SPECIFIC resources are you going to utilize? What is the next step? What is the step after that? Include your proposed schedule (when? actual dates. Make the due dates Sundays - 2pm EST.) Post to your process website, under constant input/output tab. Also, gather and secure the resources you need to work.</li>
         <li> Post your <a href = "SketchBook_wk2.md"> sketchbook </a>work to your Process site under the "sketchbook" tab.</li>
         <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
@@ -91,27 +91,31 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
         <li>Discuss: </li>
     <ul>
+        <li><a href = "SketchBook_wk3.md">Discuss sketchbook</a>assignment</li>
         <li><a href = "Time_Management_System.md"> Time Management System Assignment </a></li>
-        <li><a href = "Circular_Design_Sprint.md"> Launch of Circular Design Sprint; Journey & Emotion Investigation</a></li>
+        <li><a href = "Circular_Design_Sprint.md"> Launch of Circular Design Sprint; Ideation & Multiple Uses (Emotion) Investigation</a></li>
+        <li> Discuss User Studies & The Pocket Universal Methods of Design (TPUMoD) </li>
     </ul>     
 <li>Review Homework</li>
 </td>  
     <td valign="top">
         <ul> Read <br>
             <li> Show Your Work </li>
+            <li> Read (at least 10) Letters From Previous Cohorts (found in Slack). Write a brief reflection and post to your process website under "reflections".</li>
         </ul>
     <ul> Do: <br>
-    <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site </li>
+    <li> Post work from the Circular Design Sprint to your Process site </li>
+    <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your <a href = "SketchBook_wk3.md">sketchbook</a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
-<li><a href = "classmate_discovery.md">Classmate Discovery Part 2: Generate</a></li><li> Research studies for Circular Design Sprint</li></ul>
+<li><a href = "classmate_discovery.md">Classmate Discovery Part 2: Generate</a></li><li> Research user studies for Circular Design Sprint</li>. See The Pocket Universal Methods of Design (TPUMoD) (see Slack). </ul>
 </td>
 </tr>
 <tr>
     <td valign="top">wk 4<p></p><p>Feb 14 & 16th</p></td>
     <td valign="top">
         <li>Review Homework: Classmate Discovery</li>
-        <li><a href = "Circular_Design_Sprint.md">Circular Design Sprint: Ideation: Product & Service </a></li>
-        <li>I+P Exercise: <a href = "https://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER Technique by Michael Michalko</a></li>
+        <li> Discuss questions, bumps and findings re: User Studios & TPUMoD </li>
+        <li><a href = "Circular_Design_Sprint.md">Circular Design Sprint: Multiple Uses (Emotion) Investigation (?) & Circular Journeys; Design Product or Service! </a></li>
       <li> Discuss: Prototyping</li>
       </td>
     <td valign="top">
@@ -121,28 +125,51 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <li>Write your <a href = "refect.md">reflection response </a> to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Post to your process website under "reflections tab".</li> 
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
     <li>  Show Your Work; By the end of next week or so, you should be half way through Show Your Work. If you aren't, get reading!</li>
+    <li> Post work from the Circular Design Sprint to your Process site </li>
      </ul>
      Do:
-     <ul><li> Post your <a href ="SketchBook_wk4.md">sketchbook </a> work to your Process site </li>
+     <ul><li> Post your <a href ="SketchBook_wk4.md">sketchbook </a> work to your Process site under Sketchbook</li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     <li><a href="constant_input_output.md">constant input/output</a></li></ul>
 </td>
 </tr>
  <tr>
-    <td valign="top">wk 5<p> <strong> no class Feb 21 @ NYU </strong> <br>Feb 23 & Feb 28th </p></td>  
+    <td valign="top">wk 5<p> <strong> no class Feb 21 @ NYU </strong> <br> <br>Feb 23 & Feb 28th </p></td>  
     <td valign="top">
          <li>Review Homework</li>
          <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
+         <li> <a href = "Circular_Design_Sprint.md">Circular Design Sprint: Finalize Presentations & Present in-class </a></li>
      </td>
      <td valign="top">
     Read:
     <ul>
     </ul>
     Do:
+    <strong> Homework is now due on Tuesdays at noon </strong> for the rest of the semester. Make note of this. <br> <br>
+    <li> Post work from the Circular Design Sprint to your Process site </li>
      <li><a href="constant_input_output.md">constant input/output</a></li>
     <li> Read - Show Your Work </li>. Post your <a href = "reflect.md">reflections </a> to your Process site.</ul>
-<li> Post your <a href = "Sketchbook_wk5.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li>   
+<li> Post your <a href = "Sketchbook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li><li><a href ="Time_Management_System.md">Time Management System</a></li>   
     </td>
+</tr>
+<tr>
+    <td valign="top">wk 6 <p>March 2 & March 7</p></td>  
+<td valign="top"><ul>
+    <li> </li>
+</ul>
+   </td>
+<td valign="top">
+     <strong> Homework is now due on Tuesdays at noon </strong> for the rest of the semester. Make note of this. <br> <br>
+      <ul>
+        <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
+        <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) Midterm project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
+        <li><a href ="Time_Management_System.md">Time Management System</a></li>
+        <li><a href="constant_input_output.md">constant input/output</a></li>
+        <li> Post your <a href ="SketchBook_wk5.md">sketchbook </a> work to your Process site under Sketchbook</li>
+        </ul>
+    </td>
+</tr>
+
 
 </table>
 

@@ -11,7 +11,7 @@ Choose either for the next 10 weeks of the semester. **Do not do both**:
 
 #### Discovery Log (Input, Learning, Absorbing)
 
-*   Each week’s discovery log is due on Mondays before 9am. However, I suggest that you don't wait until the last minute. I would suggest posting AS you discover.
+*   Each week’s discovery log is due on Sundays before 2pm. However, I suggest that you don't wait until the last minute. I would suggest posting AS you discover.
 *   Discovery logs can NOT be submitted after each due date. Logs are checked weekly. You cannot back date them to get them to count.
 *   If you didn’t discover anything new, post literally that you did not discover anything new this week. This, admittedly, is a tough sell to me.
 
