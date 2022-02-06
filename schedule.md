@@ -71,7 +71,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </td> 
     <td valign="top">
     <li> Read: </li>
-<ul><li><a href ="https://www.nytimes.com/2018/11/17/style/self-care/terry-gross-conversation-advice.html"> Read the article "How To Talk to People" by Terry Gross </a></li>
+<ul><li><a href ="https://www.nytimes.com/2018/11/17/style/self-care/terry-gross-conversation-advice.html"> Read the article "How To Talk to People" by Terry Gross </a>. It is available through the NYU libraries. <a href = "https://infoweb-newsbank-com.proxy.library.nyu.edu/apps/news/document-view?p=WORLDNEWS&docref=news/16FCA334E82BB8D0" >Follow this link to access it (you will need to login using your NYU credentials). </a></li>
     <li> Read letters to the next cohort (found on slack resources). Write a brief <a href = "reflect.md">reflection </a>on your Process Site. Post to your process website under "reflections".</li>
      <li> Read - Show Your Work </li>
     </ul>
