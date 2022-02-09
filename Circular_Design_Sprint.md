@@ -25,7 +25,7 @@ Goal: What are critical hinderances to circular consumption? This exercise shoul
 
 1. What is the life span of the object? What other related activites or supporting items/actions does this object require? Are there particular feelings about participating in a circular transaction? How can these be mitigated?
 
-Answer the questions above with word lists, brain storms, and concept mapping
+Answer the questions above with word lists, brain storms, and concept mapping. Post your maps and lists to your Process site.
 
 2. Then use The Circular Design Ideation pack (pink cards), ideate and explore your chosen further. Explore possibilities of:
 
@@ -34,12 +34,15 @@ Answer the questions above with word lists, brain storms, and concept mapping
 	- Designing for Exchange
 	- Designing for Circular Match-making. 
 
+Visually demonstration this ideation through word lists and concept maps. (Post to your site)
 
-3. How can these aspects be addressed by your design proposal? Make note of your process and document. Sketch, draw and map things out.
+3. How can these aspects be addressed by your design proposal? Make note of your process and document. Sketch, draw and map things out. Post to your site.
+
 
 4. Discuss The Pocket Universal Methods of Design (TPUMD) possibilities as a group and strategize who is doing what research exercise design. Discuss several possibilites each, by skimming the text. Then choose 1 each as an activity to do for homework (due next Thursday). Or create new research strategy. Document your process and reflect on the execution, posting to your Process Site. 
 
 Homework:
+- Post your mindmaps, concept maps and word lists from 1-3. You should have multiple maps and lists for each number. Not just 1-2 total
 - Review Use2Use Activation Pack cards
 - Review The Pocket Universal Methods of Design (TPUMD)
 - Pick 1 Processes (Each) from TPUMD that would be good to enact in order to gain information. In other words, pick 1 different exercise each (no one from the group should be doing the same one) and finish designing/fleshing them out, them with reference to your product in particular
