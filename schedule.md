@@ -122,7 +122,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     Read:
     <ul>
  <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Module 3 INCLUDING LINKS </a> </li>  
-     <li>Write your <a href = "refect.md">reflection response </a> to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Post to your process website under "reflections tab".</li> 
+     <li>Write your <a href = "refect.md">reflection response </a> to the <a href = "https://www.youtube.com/watch?v=nJPERZDfyWc">Everything is a Remix </a>as well as <a href = https://www.youtube.com/watch?v=PKvsc6a03Es" >The Force Awakens </a>, <strike>The Matrix </strike> and <a href = "https://www.youtube.com/watch?v=xPzpIRZAWUc&t=3s">The IPhone</a> by Kirby Ferguson </a>. Post to your process website under "reflections tab".</li> 
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
     <li>  Show Your Work; By the end of next week or so, you should be half way through Show Your Work. If you aren't, get reading!</li>
     <li> Post work from the Circular Design Sprint to your Process site </li>

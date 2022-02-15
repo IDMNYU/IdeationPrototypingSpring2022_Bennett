@@ -4,7 +4,7 @@
 
 We live in a world of finite resources. We are facing a critical time for our planet as we are experiencing rapid climate change and great loss of biodiversity. It's imperative to address our resources and to limit our disposal of materials.
 
-Circular Design refers to creating products or services that promote or foster a product's circularity from a user perspective and moves away from linear consumation and waste.
+Circular Design refers to creating products or services that promote or foster a product's circularity from a user perspective and moves away from linear consumption and waste.
 
 People engage in circular consumption in many different ways: renting, leasing, borrowing, and buying pre-used products. There are three main phases: obtainment (gaining ownership or access), use, and clearance (resigning ownership or access).
 
