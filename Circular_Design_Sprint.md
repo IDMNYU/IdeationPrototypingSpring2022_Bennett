@@ -8,6 +8,57 @@ Circular Design refers to creating products or services that promote or foster a
 
 People engage in circular consumption in many different ways: renting, leasing, borrowing, and buying pre-used products. There are three main phases: obtainment (gaining ownership or access), use, and clearance (resigning ownership or access).
 
+#### Semester week 5/Week 3 Circular Design Sprint
+
+- Ideation
+	- Brainstorming
+	- Negative Storming
+	- 3/4 - 3 - 5 Method
+- Protyping
+	- CEP + CFP
+	- Dark Horse
+	- Imagine The Future
+
+#### Semester week 4/Week 2 Circular Design Sprint
+
+
+Post evidence of your process of each of these (Problem Statement, Stakeholder map, Personas, Jobs To Be Done & Customer Journey). For each of them, tell me a where you are at, as a result of each of the exercises. What developed as a result of the exercise? What shifted or changed as a result of the exercise?
+
+###### Post half of these (if not them all) by 3/1/22 noon; The rest are due by the following week.
+
+- Create The Problem Statement
+	- Note that the problem statement never starts nor includes the solution. It is about understanding the problem.
+	- An example of a problem statement: “How might be redesign …[what?]….[for whom?]…so that ….[ specific need] … is satisfied?”
+	- Tools to exlpore and help create a problem statement:
+			- 5W + H Questions: What, Why, Who, When, Where, How
+			- Context Maps
+			- Cause - Effect Diagrams
+- Create a Stakeholder Map of all the concerned/interested people along the entire scope of the problem. These include people with a vested interest, as well as competitors and naysayers.
+	- Tools:
+		- See the slide deck (DesignThinking_UnderstandObserveDefine) in Slack Resources
+		- See PDF tool in Slack Resources
+- Create 2-3 Personas (fictional character who is a potential user)
+	- See the slide deck (Observering Emotions) in Slack Resources
+	- Tools:
+		- PDF in Slack
+		- [Miro](https://miro.com/) also has a template
+		- More discussion and examples [here](https://github.com/IDMNYU/IdeationPrototypingSpring2022_Bennett/blob/main/Personas.md)
+- Outline/List all the jobs the user/customer/client needs to do (ie, Jobs To Be Done)
+	- Captures the user/customer/client tasks in a structured way
+	- Uncovers hidden tasks
+	- When I .....I want to ........so I can ....
+	- See the slide deck (Observering Emotions) in Slack Resources
+	- Tools:
+		- PDF in Slack
+- Using one of your Personas, and Jobs to Be Done or another scenario, create a Customer Journey Map
+	- See the slide deck (Observering Emotions) in Slack Resources
+	- Tools:
+		- Card deck exercise from class (See Slack Circular Design Sprint)
+		- Customer Journey Map PDF in Slack Resources
+
+
+
+
 #### Semester week 3/Week 1 Circular Design Sprint: Launch, Investigation, & Ideation
 
 In class Monday:

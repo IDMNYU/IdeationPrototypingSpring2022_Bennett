@@ -138,12 +138,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
          <li>Review Homework</li>
          <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
-         <li> <a href = "Circular_Design_Sprint.md">Circular Design Sprint: Finalize Presentations & Present in-class </a></li>
+         <li> <a href = "Circular_Design_Sprint.md">Circular Design Sprint: Ideation & Prototyping </a></li>
      </td>
      <td valign="top">
-    Read:
-    <ul>
-    </ul>
     <strong> Homework is now due on Tuesdays at noon </strong> for the rest of the semester. Make note of this. <br> <br>
     Do:
     <li> Post work from the Circular Design Sprint to your Process site </li>
@@ -155,24 +152,19 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 6 <p>March 2 & March 7</p></td>  
 <td valign="top"><ul>
-    <li> World Building Game In Class </li>
-    <li> Discuss <a href = "Future.md">Future Project</a> </li>
-    <li><a href = "Future_weeklyBrief.md">  Discuss Future Project Homework</a></li>
+    <li> <a href = "Circular_Design_Sprint.md">Circular Design Sprint: Pitching & Presenting </a></li>
 </ul>
    </td>
 <td valign="top">
      <strong> Homework is now due on Tuesdays at noon </strong> for the rest of the semester. Make note of this. <br> <br>
       <ul>
-        <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
-        <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) Midterm project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
+         Homework</a></li>
         <li><a href ="Time_Management_System.md">Time Management System</a></li>
         <li><a href="constant_input_output.md">constant input/output</a></li>
-        <li> Post your <a href ="SketchBook_wk5.md">sketchbook </a> work to your Process site under Sketchbook</li>
+        <li> Post your <a href ="SketchBook_wk6.md">sketchbook </a> work to your Process site under Sketchbook</li>
         </ul>
     </td>
 </tr>
-
-
 </table>
 
 
