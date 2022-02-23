@@ -146,7 +146,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Post work from the Circular Design Sprint to your Process site </li>
      <li><a href="constant_input_output.md">constant input/output</a></li>
     <li> Read - Show Your Work Post your <a href = "reflect.md">reflections </a> to your Process site. </li> </ul>
-<li> Post your <a href = "Sketchbook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li><li><a href ="Time_Management_System.md">Time Management System</a></li>   
+<li> Post your <a href = "SketchBook_wk5.md">sketchbook</a> work to your Process site under Sketchbook</li><li><a href ="Time_Management_System.md">Time Management System</a></li>   
     </td>
 </tr>
 <tr>
