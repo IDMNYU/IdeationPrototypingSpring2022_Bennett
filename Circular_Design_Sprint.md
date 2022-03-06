@@ -8,6 +8,26 @@ Circular Design refers to creating products or services that promote or foster a
 
 People engage in circular consumption in many different ways: renting, leasing, borrowing, and buying pre-used products. There are three main phases: obtainment (gaining ownership or access), use, and clearance (resigning ownership or access).
 
+
+#### Semester week 6/Week 4 Circular Design Sprint
+
+- Show evidence of your Prototyping as well as how your idea is progessing and developing with regards to Circular Design. Write a short reflect with all content uploaded.
+
+- Brainstorm a presentation which is creative (ie not a formal slide deck and a precise walk through of your process) and shows the depth of your process. This presentation is NOT to be a walk through of your process. Your blog has been evidence of that. Instead, take all the research, knowledge, revelations and prototying and create a short (3-8 minute) presentation in-class on March 9th. 
+
+	This presentation could be:
+		- A pitch to Angel Investors for funding for your business service/product
+		- A video commercial advertising your business or product
+		- A pitch to a government or school board for buy-in, support, or funding.
+		- A Public Service Announcement/Campaign for your project or service
+
+Research these to get an idea on how to riff on these and to apply them to your presentation.
+
+These presentations are meant to be rough (not high fidelity; notes and speaking tools are acceptable), yet, they need to show the depth of your process (meaning design thinking exercises/steps) by how you describe your product/service, it's need, it's viability, it's fit into the environment, various users, etc. The idea and heart of your presentation is more important than the polish. Use sketches and drawings to show the item or the process/service. These presentations are meant to be fun and a bit lighthearted, while still conveying the content of your research. Think of you, not as you, but another character that is giving the presentation (ie, start-up founder, engineer, designer, policy maker, artist, etc). You are not you, as a NYU student in this course walking through the ups and downs regarding what you've done over the last few weeks for this project. Instead, you are acting as someone else.
+
+These are SHORT 3-8 minute presentations. Practice, as you will be timed. Get your materials together. Brainstorm and document the process of how and what you are presenting. Post all of this to your Process site.
+
+
 #### Semester week 5/Week 3 Circular Design Sprint
 
 - Ideation
