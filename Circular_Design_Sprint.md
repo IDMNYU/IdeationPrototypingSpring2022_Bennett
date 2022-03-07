@@ -16,10 +16,10 @@ People engage in circular consumption in many different ways: renting, leasing, 
 - Brainstorm a presentation which is creative (ie not a formal slide deck and a precise walk through of your process) and shows the depth of your process. This presentation is NOT to be a walk through of your process. Your blog has been evidence of that. Instead, take all the research, knowledge, revelations and prototying and create a short (3-8 minute) presentation in-class on March 9th. 
 
 	This presentation could be:
-		- A pitch to Angel Investors for funding for your business service/product
-		- A video commercial advertising your business or product
-		- A pitch to a government or school board for buy-in, support, or funding.
-		- A Public Service Announcement/Campaign for your project or service
+		- A pitch to Angel Investors for funding for your business service/product <br>
+		- A video commercial advertising your business or product <br>
+		- A pitch to a government or school board for buy-in, support, or funding. <br>
+		- A Public Service Announcement/Campaign for your project or service <br>
 
 Research these to get an idea on how to riff on these and to apply them to your presentation.
 
