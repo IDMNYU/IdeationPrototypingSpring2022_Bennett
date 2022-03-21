@@ -177,9 +177,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       <ul>
          Homework</a></li>
          <li> <a href = "Circular_Design_Sprint.md">Post all final documentation (including those for your presentation) to your blogs</a> Write a short reflection on how things went, discoveries, plot thickening, uncoverings, etc.</li>
-         <li> Write a post regarding the exercises in class for the Future Project</li>
+         <li> Write a post regarding the exercises in class for the Future Project, including the writing prompt for your identity.</li>
         <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
         <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) Midterm project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
+        <li> Finish Reading - Show Your Work. Post your <a href = "reflect.md">reflections </a> to your Process site. </li>
         <li><a href ="Time_Management_System.md">Time Management System</a></li>
         <li><a href="constant_input_output.md">constant input/output</a></li>
         </ul>
