@@ -21,7 +21,7 @@ This world will be composed of the following ingredients:
 * Information + Learning
 * Transportation
 
- You must generally agree on the aspects of the world. You may develop, expand, and deviate from these ingredients with regard to the individual assignments in Part 2. The depth and richness of your research is what will take you far. Do. not. be. cursory. 
+ You may develop, expand, and deviate from these ingredients with regard to the individual assignments in Part 2. The depth and richness of your research is what will take you far. Do. not. be. cursory. 
 
 Individually, you will research and develop 4+ of these ingredients, providing more detail for each that is based on preceeding histories (whether directly or indirectly). Create 1 dense mood boards that visually indicates this research. Pay attention to graphics, color, image and visual language to convey this information. 
 
@@ -32,6 +32,7 @@ I am looking for the following:
 * Mood Board
 * Mind Maps
 * Evidence of Research (ie, text and words along with links to moodboards and mindmaps) 
+    - Find 4-5 resources and annotate (ie write a short blurb) what the resource is about and why it is of importance.
 
 All posted to your Process Site under the "Future Project Tab"
 
