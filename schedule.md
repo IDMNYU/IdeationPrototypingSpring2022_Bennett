@@ -186,6 +186,17 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     </td>
 </tr>
+<tr>
+    <td valign="top">wk 8 <p>March 23 & March 28</p></td>    
+    <td valign="top"><strong> Research presentation<br></strong> </td>
+    <td valign="top">
+    <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
+    <li> Read the latest letters from the last co-hort and write a thoughtful reflection on your Process site. How do these letters, your midterm assessment, and feedback inform and/or change your process in this course?</li>
+   <li><a href="constant_input_output.md">constant input/output</a></li>
+    <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site for your Future project. Brainstorms, mind maps, word lists. </li>
+    <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li><li> Read - Don't Read This Book </li>
+</td></tr>
+<tr>
 </table>
 
 

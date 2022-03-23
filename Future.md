@@ -5,6 +5,10 @@
 
 ### 30% of Final Grade
 
+For our final project, Future Dystopia, you will be creating a speculative design project. This project can be done as a team or as an individual.
+
+Imagine our civilization at least 20 years from now. Things have either collapsed beyond repair or life has become a harmonious dream. Through some crazy combination of wormholes and string theory, you have the opportunity to create a piece of information that will be sent back to the current population.
+
 ## Part 1: World Development
 Work to develop a future world. A world that is wildy imaginative. Yet it must be a world that is plausible and probable _in some form_. _Form_ means by some succession of plausible events. You are creating a world, where, as Hans Vaihinger writes in _The Philosophy of As If_,  "(t)he ideal is a practical fiction".
 
