@@ -21,7 +21,10 @@
 6. Begin a _draft_ of a [timeline](timeline.md) of your world. Ordering significant events in time with relation to one another. Use your sketchbook to explore this.
 
 
-7. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
+7. Create concept maps to further explore various aspects taking place in your world. Concept maps are like mind-maps, yet there is a specific relationship which links one entry from another. Use your sketch book to explore this.
+
+
+8. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
 
 
 #### Semester Week 7b | Week 1: Future Project - Launch
