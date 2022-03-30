@@ -3,7 +3,28 @@
 
 # [Future Project](https://github.com/IDMNYU/IdeationPrototypingSpring2022_Bennett/blob/main/Future.md)
 
-#### Semester Week 7b | Week 1: Future Project Launch
+
+
+#### Semester Week 8 | Week 2: Future Project - Define further
+
+
+1. If you've been directed to or need to, do another round of the card sorting exercise. Post visuals as well as reflections as to where you are at the end of it.
+
+2. Do the 1-2 mindmaps exploring your THEME if you have not already done so
+
+3. Post 3 references to the ingredients and ANNOTATE them, if you have not already
+
+4. Post 3 references and annotated them, with reference to your THEME
+
+5. Begin a visual mood board which describes your world, how it looks, how it feels, characteristics. These are the visuals of this world. This moodboard should be dense and have multiple images to represent each aspect. One image of a space ship doesn't cut it. there should be multiple images. This should be vast. Start this mood board. But visual evidence of concerted effort must exist.
+
+6. Begin a _draft_ of a [timeline](timeline.md) of your world. Ordering significant events in time with relation to one another. Use your sketchbook to explore this.
+
+
+7. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
+
+
+#### Semester Week 7b | Week 1: Future Project - Launch
 
 1. Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project and the following steps. Do not skip it. 
 
