@@ -198,7 +198,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </td></tr>
 <tr>
         <td valign="top">wk 9 <p>March 30 and April 4</p></td>    
-    <td valign="top"> Review of Homework<br>  /td>
+    <td valign="top"> Review of Homework<br> Mood board development <br> Concept maps <br>
     <td valign="top"><li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
         <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) Midterm project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
       <li> Read the midterm letters from the last cohort and post a reflection on your process site.</li>
