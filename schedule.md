@@ -247,7 +247,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 14<p>May 4 & 9</p></td> 
     <td valign="top">Final Future Presentations <br> Refine documents</td>  
     <td valign="top"> 
-     <li>Submit the <a href = "end-of-semester-deliverables.md">End of Semester Deliverables</a> by NOON on May 12th. This work is graded. Late work will not be accepted. </li> 
+     <li>Submit the <a href = "end-of-semester-deliverables.md">End of Semester Deliverables</a> by NOON on May 9th. This work is graded. Late work will not be accepted. </li> 
     </td>
 </tr>
 </table>
