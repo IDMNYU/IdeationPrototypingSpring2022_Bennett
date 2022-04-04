@@ -209,6 +209,47 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </td>
   </tr>
 <tr>
+    <td valign="top">wk 10<p>April 6 & April 11</p></td> 
+    <td valign="top">Review Homework</td>  
+    <td valign="top">  
+      <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
+   <li><a href="constant_input_output.md">constant input</a></li>
+<li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li><li> Read - Don't Read This Book </li>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 11<p>April 13 & April 18</p></td> 
+    <td valign="top">Review Homework<br>Future Presentation Brainstorm <p> Constant Input/Output Presentations </p></td>
+    <td valign="top"> <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
+  <li><a href="constant_input_output.md">constant input/output project</a></li> 
+<li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li>
+<li> Read - Don't Read This Book </li>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 12<p>April 20 & April 25</p></td> 
+    <td valign="top">Future Presentation Dry Run</td>  
+    <td valign="top"> 
+       <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
+       <li> Create, prepare and practice your presentation on your Constant I/O project</li>
+    <li> Post your <a href = "notebook_or_sketchbook.md">sketchbook</a> work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li>
+    <li> Read - Don't Read This Book </li></td>
+</tr>
+<tr>
+    <td valign="top">wk 13<p>April 27 & May 2</p></td> 
+    <td valign="top">Review Homework <p> Final Future Presentations</td>  
+    <td valign="top"> 
+   <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
+    <li> Post the "take aways" from Don't Read This Book </li>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 14<p>May 4 & 9</p></td> 
+    <td valign="top">Final Future Presentations <br> Refine documents</td>  
+    <td valign="top"> 
+     <li>Submit the <a href = "end-of-semester-deliverables.md">End of Semester Deliverables</a> by NOON on May 12th. This work is graded. Late work will not be accepted. </li> 
+    </td>
+</tr>
 </table>
 
 
