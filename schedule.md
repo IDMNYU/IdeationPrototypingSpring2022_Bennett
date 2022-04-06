@@ -210,7 +210,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
   </tr>
 <tr>
     <td valign="top">wk 10<p>April 6 & April 11</p></td> 
-    <td valign="top">Review Homework</td>  <br> business & publication <br> Narrative & Conflict<br>
+    <td valign="top">Review Homework  <br> business & publication <br> Narrative & Conflict<br></td>
     <td valign="top">  
       <li><a href = "Future_weeklyBrief.md"> Future Project Homework</a></li>
    <li><a href="constant_input_output.md">constant input</a></li>
