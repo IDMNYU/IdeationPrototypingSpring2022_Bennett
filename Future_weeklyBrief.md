@@ -3,6 +3,26 @@
 
 # [Future Project](https://github.com/IDMNYU/IdeationPrototypingSpring2022_Bennett/blob/main/Future.md)
 
+#### Semester Week 9 | Week 3: Future Project - Define more specifically
+
+0. Post the results of the in-class exercises.
+
+1. Do the 1-2 mindmaps exploring your THEME if you have not already done so
+
+2. Post 3 references to the ingredients and ANNOTATE them, if you have not already. If you've already done this, find 2-3 more.
+
+3. Post 3 references and annotated them, with reference to your THEME. If you've already done this, find 2-3 more.
+
+4. Begin a visual mood board which describes your world, how it looks, how it feels, characteristics. Don't just google "futuristic" or "digital". These images should be curated and calculated. You should be defining these images which define your world. Not the other way around. Feel free to draw or use photoshop to augment images. This moodboard should be dense and have multiple images to represent each aspect. One image of a space ship doesn't cut it. There should be multiple images that are calculated and curated. This is your vision of your world. This should be vast. Continue developing this mood board. 
+
+5. Begin a _draft_ of a [timeline](timeline.md) of your world. Ordering significant events in time with relation to one another. Use your sketchbook to explore this.
+
+
+6. Create concept maps to further explore various aspects taking place in your world. Concept maps are like mind-maps, yet there is a specific relationship which links one entry from another. Use your sketch book to explore this. Concept maps should help you get more specific, as well as to develop other areas to research. 
+
+
+8. Write another short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
+
 
 
 #### Semester Week 8 | Week 2: Future Project - Define further
