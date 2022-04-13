@@ -3,6 +3,27 @@
 
 # [Future Project](https://github.com/IDMNYU/IdeationPrototypingSpring2022_Bennett/blob/main/Future.md)
 
+#### Semester Week 10 | Week 4: Future Project - Narrative & Object
+
+0. Post the results of all of the in-class exercises.
+
+1. Do whatever you have not done previously. See the [Future Project](https://github.com/IDMNYU/IdeationPrototypingSpring2022_Bennett/blob/main/Future.md) for deadlines.
+
+2. Digging deeper into the issues in your world (or issues now resolved), create a draft of 3-4 [personas](https://github.com/IDMNYU/DMUY1143_A_IdeationPrototyping_Spring2021_Bennett/blob/main/Personas.md) of central people in your world
+
+
+3. Storyboard (Draft) the narrative which delivers the message back. [Read Module 4](https://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=sreswl) for examples of storyboards as well as different types. Use [Mural](https://www.mural.co/templates/storyboarding-1?) to create your storyboard, or perhaps use [one of these other templates](https://github.com/IDMNYU/CreativeCoding_1133-C_Bennett_Fall18/tree/master/storyboardTemplates)
+
+
+4. Develop your [Future Object/Future Artifact](FutureArtifact.md)s (first drafts/iterations)
+
+
+5. Continue developing and refining your [timeline](narrative_timeline.md) of your world. Ordering significant events in time with relation to one another. You should be working towards a high resolution version for the final.
+
+6. Write another short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further.
+
+
+
 #### Semester Week 9 | Week 3: Future Project - Define more specifically
 
 0. Post the results of the in-class exercises.

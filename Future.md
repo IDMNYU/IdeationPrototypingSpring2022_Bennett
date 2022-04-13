@@ -36,8 +36,7 @@ I am looking for the following:
 * Mood Board
 * Mind Maps
 * Evidence of Research (ie, text and words along with links to moodboards and mindmaps) 
-    - Find 4-5 resources and annotate (ie write a short blurb) what the resource is about and why it is of importance.
-
+ 
 All posted to your Process Site under the "Future Project Tab"
 
 ## Part 2:
@@ -45,13 +44,14 @@ All posted to your Process Site under the "Future Project Tab"
 You will develop this world and project through the following assignments over the next several weeks:
 
 
-* additional Mood Boards and Mind Maps (as needed)
-* Concept Maps
+* additional Mood Boards and Mind Maps (as needed) <strong> 4-19 / 4-26 </strong>
+* Concept Maps       <strong> 4-19-22 </strong>
 * User Personas
-* Future Object (low-fidelity 3-D prototype)
-* Future Object (High-fidelity 3-D prototype)
+* Future Object (low-fidelity 3-D prototype)  <strong> 4-20-22 & 4-25-22 </strong>
+* Future Object (High-fidelity 3-D prototype)<strong> 5-2-22/ 5-9-22 </strong>
 * Flyer/Technical Manual (Low-fi) 
 * Flyer/Technical Manual (High-fi) 
-* Evidence of Secondary Research
-* Storyboard (of/for presentation)
-* Creative Presentation regarding world + your object
+* Evidence of Ingredient Research -  <strong> 5+ sources annotated 4-25-22 </strong>
+* Evidence of Theme Research - <strong> 8+ diverse sources, annotated 4-25-22 </strong>
+* Storyboard (of/for presentation) -  <strong> 5-2-22 </strong>
+* Creative Presentation regarding world + your object -  <strong> 4-27-22 & 5-4-22 </strong>
