@@ -3,7 +3,7 @@
 
 # [Future Project](https://github.com/IDMNYU/IdeationPrototypingSpring2022_Bennett/blob/main/Future.md)
 
-#### Semester Week 10 | Week 5: Future Project - Narrative & Object
+#### Semester Week 12 | Week 5: Future Project - Narrative & Object
 
 
 1.  Storyboard (Draft) the narrative which delivers the message back. [Read Module 4](https://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=sreswl) for examples of storyboards as well as different types. Use [Mural](https://www.mural.co/templates/storyboarding-1?) to create your storyboard, or perhaps use [one of these other templates](https://github.com/IDMNYU/CreativeCoding_1133-C_Bennett_Fall18/tree/master/storyboardTemplates)
