@@ -3,6 +3,29 @@
 
 # [Future Project](https://github.com/IDMNYU/IdeationPrototypingSpring2022_Bennett/blob/main/Future.md)
 
+#### Semester Week 13 | Week 6: Future Project - Refine Narrative & Object; Develop Presenations
+
+0. Revise and address points that you've been directed to focus on
+
+1. Do an iteration or refinement of your storyboard.
+
+2. Brain storm and begin to develop your final presentation. Do research on your mechanism. Show evidence of your process.
+
+*Research. Ideate. Prototype.* Show evidence of each of these three on your site for next week. Mindmaps, storyboards, moodboards, etc. The further you can go, the better. Try to develop a dry-run of it to present in class to get feedback next week.
+
+To prepare your presentation, not only (1) research the technqiues you are using, but (2) refine your content. (3) Connect your message to the presentation. (4) Ensure that your presentation gives us an idea, of what your world is like, and the current standing of the world. Work to connect all of these threads, in a creative, experimental context.
+
+3. Do a higher fidelity prototype of your object - make it physical!
+
+4. Post the inclass exercises with a short reflection of where you are at or what they helped with.
+
+5. What are you thinking for your message back?
+
+6. Iterate your timeline with a higher-fidelity timeline
+
+7. Write a reflection about the process, what has developed, where you are at, and things you are struggling with.
+
+
 #### Semester Week 12 | Week 5: Future Project - Narrative & Object
 
 
